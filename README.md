@@ -1,1 +1,1 @@
-# project-42
+# PROJECT-42
